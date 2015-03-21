@@ -1,0 +1,55 @@
+<Cliente-array>
+  <Cliente>
+    <cod>0</cod>
+    <data>05/04/2014 às 04:30</data>
+    <nome>Ramon Honorio</nome>
+    <cpf>12345678900</cpf>
+    <telefone>1166123552</telefone>
+    <cidade>São Paulo/SP</cidade>
+    <endereco>Rua qualquer, 86</endereco>
+    <email>ramonaqh@gmail.com</email>
+    <programa>Jogo</programa>
+    <plataforma>Desktop</plataforma>
+    <descricao>Descrição do jogo qualquer de desktop.</descricao>
+  </Cliente>
+  <Cliente>
+    <cod>1</cod>
+    <data>15/04/2014 às 15:21</data>
+    <nome>Sakata Gintoki</nome>
+    <cpf>98765432100</cpf>
+    <telefone>948461262</telefone>
+    <cidade>Edo</cidade>
+    <endereco>Distrito Kabuki, 264</endereco>
+    <email>yorozuyaGintoki@gmail.com</email>
+    <programa>Site</programa>
+    <plataforma>Web</plataforma>
+    <descricao>Descrição do site qualquer.</descricao>
+  </Cliente>
+  <Cliente>
+    <cod>2</cod>
+    <data>28/05/2014 às 13:37</data>
+    <nome>Maikon Evangelista</nome>
+    <cpf>00000000000</cpf>
+    <telefone>000000</telefone>
+    <cidade>São Paulo/SP</cidade>
+    <endereco>Rua Aleatória, 123</endereco>
+    <email>iuyvivyvas@aisyhdbvq.com</email>
+    <programa>2048</programa>
+    <plataforma>Mobile</plataforma>
+    <descricao>Um jogo extremamente viciante</descricao>
+  </Cliente>
+  <Cliente>
+    <cod>3</cod>
+    <data>05/06/2014 às 22:07</data>
+    <nome>Alessandra</nome>
+    <cpf>54654</cpf>
+    <telefone>545</telefone>
+    <cidade>Sao Paulo</cidade>
+    <endereco>Rua sadas</endereco>
+    <email>asas@jasjahsajs</email>
+    <programa>Projeto PI</programa>
+    <plataforma>Desktop</plataforma>
+    <descricao></descricao>
+  </Cliente>
+  <null/>
+</Cliente-array>
